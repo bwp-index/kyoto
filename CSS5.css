@@ -1,0 +1,58 @@
+body{background-color:#ffcc66;}
+h1{font-size: 35px;
+   font-weight: bold;
+   font-family: impact;
+   text-align: center;
+   text-decoration: underline;}
+div#site-box{width: 100%;height: 1600px;}
+div#a-box{width: 42%;height: 400px;
+	      float: left;margin-left: 7%;}
+div#b-box{width: 42%;height: 400px;
+	      float: right;margin-right: 7%;}
+div#c-box{width: 42%;height: 400px;
+	      float: left;margin-left: 7%;}
+div#d-box{width: 42%;height: 400px;
+	      float: right;margin-right: 7%;}
+div#e-box{width: 42%;height: 400px;
+	      float: left;margin-left: 7%;}
+div#f-box{width: 42%;height: 400px;
+	      float: right;margin-right: 7%;}
+div#g-box{width: 42%;height: 400px;
+	      float: left;margin-left: 7%;}
+div#h-box{width: 42%;height: 400px;
+	      float: right;margin-right: 7%;}
+
+
+div#box1{width:48%; height: 372px;
+	     background-color: white;float: left;}
+div#box2{width:48%; height: 372px;
+	     background-color: white;float: right;}
+div#box3{width:48%; height: 372px;
+	     background-color: white;float: left;}
+div#box4{width:48%; height: 372px;
+	     background-color: white;float: right;}
+div#box5{width:48%; height: 372px;
+	     background-color: white;float: left;}
+div#box6{width:48%; height: 372px;
+	     background-color: white;float: right;}
+div#box7{width:48%; height: 372px;
+	     background-color: white;float: left;}
+div#box8{width:48%; height: 372px;
+	     background-color: white;float: right;}
+div#box9{width:48%; height: 372px;
+	     background-color: white;float: left;}
+div#box10{width:48%; height: 372px;
+	     background-color: white;float: right;}
+div#box11{width:48%; height: 372px;
+	     background-color: white;float: left;}
+div#box12{width:48%; height: 372px;
+	     background-color: white;float: right;}
+div#box13{width:48%; height: 372px;
+	     background-color: white;float: left;}
+div#box14{width:48%; height: 372px;
+	     background-color: white;float: right;}
+div#box15{width:48%; height: 372px;
+	     background-color: white;float: left;}
+div#box16{width:48%; height: 372px;
+	     background-color: white;float: right;}
+img{margin-left: 50%;margin-top: 330px;}

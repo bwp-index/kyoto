@@ -1,0 +1,44 @@
+body{background-color: #ffebcd; margin: 0; }
+
+a:link{color: white;}
+     a:visited{color: white;}
+     a:hover{background-color: #000b00; color: white;}
+     a:active{color: white;}
+     a{text-decoration: none;}
+
+#bar{background-color: #006e54;
+     height: 6%; width: 100%; }
+
+ #bar{color: white;}
+
+.image1{position: absolute;top: 1%;right: 10%;}
+.image2{position: absolute;top: 1%;right: 5%;}
+
+
+
+#waku{height: 160%; width: 75%; background-color: #ffff99;
+      margin-left: 13%; border: black;}
+
+p{margin:5%;}
+#name{margin-top: 4%;}
+
+#waku2{height: 160%; width: 65%; background-color: white;
+        margin-left: 13%;
+       position: absolute;top: 12%;right: 6%;}
+
+#name1{margin-top: 2.5%}
+#age2{margin-top: 7%;}
+#sex3{margin-top: 6%;}
+#phone #number4{margin-top: 9%;}
+#email5{margin-top: 6.5%;}
+#paticipate #number6{margin-top: 5%}
+#date7{margin-top: 7%}
+#plac{margin-top: 6%}
+#place8.1{margin-top:7.5%}
+#freespace9{height:65%; width:50%; margin-top: 10.5%;
+              font-size:50px;}
+#sub{margin-top: 2%; margin-left: 80%;}
+
+textarea{font-size: 18px;}
+
+
