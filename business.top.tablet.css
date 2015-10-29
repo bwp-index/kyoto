@@ -1,11 +1,8 @@
-@media screen and (min-width: 769px){}
+@media screen and (max-width: 768px){}
 @import url(style.css) screen and (min-width: 769px);
 @import url(tablet.css) screen and (max-width: 768px);
 @import url(smart.css) screen and (max-width: 640px);
-body{margin:0; }
-body{overflow: scroll;}
-
-
+body{margin: 0;}
 
 
 
@@ -16,10 +13,10 @@ a:active{color: white;}
 a{text-decoration: none;}
 
 .facebook{position: absolute;top: 88%;
-          right: 10%;}
+          right: 15%;}
 
 .twitter{position: absolute;top: 88%;
-     right: 5%;}
+     right: 8%;}
 
 #temples{font-size: 20px;
          position: absolute;left: 10%; top: 85%;}
@@ -58,7 +55,7 @@ a{text-decoration: none;}
 #Y{font-size: 65%; }
 .soba{position: absolute;top:181%; right: 0;}
 
-#box3{background-color: #fcc800;overflow: scroll;
+#box3{background-color: #fcc800;
  height: 90%;width: 90%;
  position: absolute;top: 272%;right: 0;
 font-size: 20px; }
@@ -67,9 +64,9 @@ h1{position: absolute;left: 30%;}
 
 #event,#kuwashiku{float: left;}
 
-#event{font-size: 1em; position: absolute;top: 20%;width: 200px;}
+#event{font-size: 25px; position: absolute;top: 20%;}
 
-#setumei{ position: absolute; top:20%; right: 5%;
+#setumei{float: right; position: absolute; top:20%; right: 5%;
            font-size: 100%;}
 .husimi{margin-left: 25%; position: absolute;top: 20%;}
 
@@ -142,11 +139,3 @@ a:hover{background-color: #f08300; color: black;}
 a:active{color: white;}
 a{text-decoration: none;}]
 
-
-
-
-
-
-
-
- 
