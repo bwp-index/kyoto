@@ -1,5 +1,7 @@
-background-size: 100%;
- background-size: cover;
+@media screen and (max-width:640px){}
+@import url(style.css) screen and (min-width: 769px);
+@import url(tablet.css) screen and (max-width: 768px);
+@import url(smart.css) screen and (max-width: 640px);
 body{margin:0; }
 
 
@@ -137,11 +139,3 @@ a:hover{background-color: #f08300; color: black;}
 a:active{color: white;}
 a{text-decoration: none;}]
 
-
-
-
-
-
-
-
- 

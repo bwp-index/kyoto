@@ -1,0 +1,40 @@
+body{background-color: #b0e0e6;}
+h1{font-family: 'Microsoft Sans Serif';
+   font-size: 70px;
+   color:white;
+   margin-left: 100px;}
+h2{font-family: 'Microsoft Sans Serif';
+   font-size: 35px;
+   color:white;
+   margin-left: 300px;}
+h3{font-family: 'Microsoft Sans Serif';
+   font-size: 20px;
+   color:white;
+   } 
+div#a-box{width:54%;height:100%;float:left;}   
+
+h4{font-family: 'Microsoft Sans Serif';
+   font-size: 50px;
+   color:#339999; 
+   margin-left:100px;} 
+
+div#b-box{width:46%;height:100%;float:right;}      
+p{font-family: 'Microsoft Sans Serif';
+   font-size: 50px;
+   color:white;
+   margin-left: 50px;}
+
+div#box1{width: 45%;
+	     font-family: 'Microsoft Sans Serif';
+         font-size: 40px;
+         color:#339999;
+         float: left 
+         }
+div#box2{width: 55%;
+	     font-family: 'Microsoft Sans Serif';
+         font-size: 30px;
+         color:#339999; 
+         float: right;
+         margin-top: 20px;}
+
+
