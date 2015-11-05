@@ -1,0 +1,78 @@
+body{background-color: #fddea5; }
+
+
+h1{color: #f08300;
+   font-size: 55px;
+   font-family: Courier New;}
+
+
+
+  .up{
+  position: relative;top: -13px; left: 200px;
+  width:0;
+  height:0;
+  border: 13px solid transparent;
+  border-left-color: #f08300;
+}
+
+.sankaku1{position: relative;top: -38px; left: 230px;
+width:0;
+  height:0;
+  border: 13px solid transparent;
+  border-left-color: #f08300;}
+
+.sankaku2{position: relative;top: -65px; left: 257px;
+width:0;
+  height:0;
+  border: 13px solid transparent;
+  border-left-color: #f08300;}
+
+#japafo{color:#f08300; font-family: arial;
+         position: absolute;top: 19%; left: 290px; 
+         font-size: 30px;}
+
+.tamadon{position: absolute;top: 40%; left: 10%;}
+
+.sanka{width:0;
+  height:0;
+  border: 15px solid transparent;
+  border-left-color: #f08300;
+  float: right; position: absolute;top: 36%; right: 360px;}
+
+  #app{float: right; position: absolute;top: 31%;right: 180px;
+        color:#f08300; font-size: 30px; font-family: arial;}
+
+        #setumeifo{float: right;position: absolute;top: 40%; right: 5%;
+                   font-size: 25px;color:#f08300; font-family: arial;}
+
+#orangebox{height: 150px; width: 190px; background-color: #f08300;
+          position: absolute;top: 100%; left: 6%; bottom: 10%;}
+
+#konoha{font-size: 20px;color:#f08300; position: absolute;bottom: 15px; left: 27%; }
+
+#orangebox2{height: 150px; width: 190px; background-color: #f08300;
+            position: absolute;top: 100%; left: 330px;}
+
+#orangebox3{height: 150px; width: 190px; background-color: #f08300;
+            position: absolute; top:100%; left: 600px;}
+
+#don{font-size: 20px;color:#f08300;
+     position: absolute;top: 122%;left: 10%; }
+
+#steakdon{font-size: 20px; color: #f08300;
+          position: absolute;top: 122%; left: 380px;}
+
+#abutamadon{font-size: 20px; color: #f08300;
+             position: absolute;top: 122%; left: 650px;}
+
+.sankaku3{width:0;
+  height:0;
+  border: 15px solid transparent;border-left-color: #f08300;
+  position: absolute;top: 110%; left: 290px;}
+
+.sankaku4{width:0;
+  height:0;
+  border: 15px solid transparent;border-left-color: #f08300;
+  position: absolute;top: 110%; left: 550px;}
+
+  .kaish,.steak,.tama{margin: 10px;}
